@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.nav-link{
+  color: black !important;
+}
+.nav-link:hover{
+  border-bottom: 1px solid rgb(5, 148, 5) ;
+}
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px !important;
+  color: rgb(5, 148, 5) !important;
+}
