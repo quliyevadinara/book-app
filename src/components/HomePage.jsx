@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "./Card"
+import CardBox from "./CardBox"
 
 const HomePage = () => {
   return (
@@ -18,7 +18,14 @@ const HomePage = () => {
       </div>
     </div>
       <div className="container">
-      <Card/>
+      <CardBox/>
+      <CardBox/>
+      <CardBox/>
+      <CardBox/>
+      <CardBox/>
+      <CardBox/>
+      <CardBox/>
+      <CardBox/>
       </div>
       </>
   );
