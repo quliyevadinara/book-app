@@ -16,7 +16,6 @@ function App() {
           <Route path="/about" element={<AboutPage />} />
           <Route path="/books" element={<BooksPage />} />
         </Routes>
-       
         <FooterPage />
       </BrowserRouter>
     </div>
